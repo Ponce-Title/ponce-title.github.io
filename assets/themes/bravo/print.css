@@ -11,7 +11,7 @@ body {
 	font: 10pt Georgia, Times New Roman, Times, serif;
 }
 
-p { 
+p {
 }
 
 b, strong {
@@ -28,7 +28,8 @@ a:hover, a:active {
 
 /*<group=Layout>*/
 
-#container {	text-align: left;
+#container {
+	text-align: left;
 	width: 100%;
 	padding: 0px;
 	margin: 0px;
@@ -87,7 +88,7 @@ a:hover, a:active {
 }
 
 #footer {
-	text-align: center; 
+	text-align: center;
 	background: none;
 	color: #000000;
 	font-size: 10pt;
@@ -244,7 +245,7 @@ h5 {
 }
 
 .thumbnail-frame img {
-	background: repeat url(http://poncetitle.com/rw_common/themes/bravo/images/sidebar_bg.png);
+	background: repeat url(images/sidebar_bg.png);
 }
 
 .thumbnail-caption {
