@@ -66,26 +66,25 @@
 			
 <div class="message-text">Fill in the form below to contact us.<br></div><br>
 
-<form action="http://poncetitle.com/files/mailer.php" method="post" enctype="multipart/form-data">
+<form action="https://formspree.io/f/xjkbbdla" method="POST" ">
 	 <div>
 
 		<label>Your Name:</label> *<br>
-		<input class="form-input-field" type="text" value="" name="form[element0]" size="40"><br><br>
+		<input class="form-input-field" type="text" value="" name="name" size="40" placeholder="Your name"><br><br>
 
 		<label>Your Email:</label> *<br>
-		<input class="form-input-field" type="text" value="" name="form[element1]" size="40"><br><br>
+		<input class="form-input-field" type="email" value="" name="email" size="40" placeholder="Your email"><br><br>
 
 		<label>Subject:</label> *<br>
-		<input class="form-input-field" type="text" value="" name="form[element2]" size="40"><br><br>
+		<input class="form-input-field" type="text" value="Contact Form" name="subject" size="40"><br><br>
 
 		<label>Message:</label> *<br>
-		<textarea class="form-input-field" name="form[element3]" rows="8" cols="38"></textarea><br><br>
+		<textarea class="form-input-field" name="message" rows="8" cols="38"></textarea><br><br>
 
 		<div style="display: none;">
 			<label>Spam Protection: Please don't fill this in:</label>
 			<textarea name="comment" rows="1" cols="1"></textarea>
 		</div>
-		<input type="hidden" name="form_token" value="30648201866748eaa8b2e8" >
 		<input class="form-input-button" type="reset" name="resetButton" value="Reset" >
 		<input class="form-input-button" type="submit" name="submitButton" value="Submit" >
 	</div>
