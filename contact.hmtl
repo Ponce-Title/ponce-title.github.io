@@ -53,7 +53,7 @@
 			<div class="clearer"></div>
 		</div><!-- End page header -->
 		<div id="navcontainer"><!-- Start Navigation -->
-			<ul><li><a href="../index.html" rel="self" class="currentAncestor">Home</a><ul><li><a href="../page8/page8.html" rel="self">What Is Title Insurance?</a></li><li><a href="../page4/page4.html" rel="self">Other Services</a></li><li><a href="../page7/page7.html" rel="self">Affliations</a></li><li><a href="../page6/page6.html" rel="self">What to Bring to Closing</a></li><li><a href="../page3/page3.html" rel="self">Location</a></li><li><a href="contact.php" rel="self" id="current">Contact</a></li></ul></li></ul>
+			<ul><li><a href="../index.html" rel="self" class="currentAncestor">Home</a><ul><li><a href="../page8/page8.html" rel="self">What Is Title Insurance?</a></li><li><a href="../page4/page4.html" rel="self">Other Services</a></li><li><a href="../page7/page7.html" rel="self">Affliations</a></li><li><a href="../page6/page6.html" rel="self">What to Bring to Closing</a></li><li><a href="../page3/page3.html" rel="self">Location</a></li><li><a href="contact.html" rel="self" id="current">Contact</a></li></ul></li></ul>
 		</div><!-- End navigation -->
 		<div id="sidebar"><!-- Start sidebar content -->
 			<h1 class="sideHeader"></h1><!-- Sidebar header -->
